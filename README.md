@@ -12,7 +12,7 @@ We use:
 
 ## 🚀 Project Overview
 
-Modern applications generate large volumes of logs. Collecting, processing, and analyzing these logs helps in observability, performance tuning, and incident response.
+Modern applications generate large volumes of logs. Collecting, processing, and analyzing these logs helps in observability, performance tuning, and incident response. Elastic search alternative (open search)
 
 This project sets up:
 - A local Kubernetes cluster using `minikube`
